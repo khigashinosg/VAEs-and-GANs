@@ -27,12 +27,5 @@ This project delves into the intricacies of deep learning models, particularly f
 
 ## How to Use
 - Run the Jupyter Notebook to visualize model representations, analyze loss curves, and understand the engineering choices made.
-- Modify parameters and observe changes to deepen your understanding of model dynamics.
-
-## Contributing
-Feel free to contribute by suggesting improvements, adding new visualization techniques, or enhancing the analysis discussions.
-
-## Authors
-[Your Name]
-[Other Contributors]
+- Modify parameters and observe changes as desired.
 
